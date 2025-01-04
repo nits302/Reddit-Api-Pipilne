@@ -1,0 +1,24 @@
+# Reddit related
+praw>=7.7.1
+prawcore>=2.4.0
+update-checker>=0.18.0
+websocket-client>=1.6.1
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.23.2
+pyarrow>=7.0.0
+
+# AWS related
+boto3>=1.24.7
+botocore>=1.27.7
+
+# Database
+psycopg2-binary>=2.9.3
+
+# Utils
+requests>=2.31.0
+urllib3>=1.26.9,<2.0.0  # Giữ phiên bản 1.x để tránh xung đột
+python-dateutil>=2.8.2
+pytz>=2022.1
+configparser>=5.2.0
