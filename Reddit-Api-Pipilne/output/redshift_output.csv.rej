@@ -1,0 +1,11 @@
+diff a/output/redshift_output.csv b/output/redshift_output.csv	(rejected hunks)
+@@ -0,0 +1,9 @@
++id,title,num_comments,score,author,created_utc,url,upvote_ratio,over_18,edited,spoiler,stickied
++1hsm94k,Data Scientist for Schools/ Chain of Schools,13,8,oihjoe,2025-01-03 13:17:19,https://www.reddit.com/r/datascience/comments/1hsm94k/data_scientist_for_schools_chain_of_schools/,0.89,False,False,False,False
++1hsv9ql,Professor looking for college basketball data similar to Kaggles March Madness,6,5,crom5805,2025-01-03 19:50:33,https://www.reddit.com/r/datascience/comments/1hsv9ql/professor_looking_for_college_basketball_data/,0.87,False,False,False,False
++1hsxfrd,Data Science Job Market in UK vs. USA,16,32,Excellent_Common8528,2025-01-03 21:22:53,https://www.reddit.com/r/datascience/comments/1hsxfrd/data_science_job_market_in_uk_vs_usa/,0.69,False,False,False,False
++1hslejn,How would you calculate whether to use Open Source LLM vs Vendors?,8,5,LogisticDepression,2025-01-03 12:28:54,https://www.reddit.com/r/datascience/comments/1hslejn/how_would_you_calculate_whether_to_use_open/,0.83,False,False,False,False
++1hsn3e4,Why doesn't changepoint detection work the way I expect it to?,3,9,takenorinvalid,2025-01-03 14:01:12,https://www.reddit.com/r/datascience/comments/1hsn3e4/why_doesnt_changepoint_detection_work_the_way_i/,0.8,False,False,False,False
++1hsyiwl,Dicts vs classes: which do you tend to use?,12,9,PostponeIdiocracy,2025-01-03 22:08:41,https://www.reddit.com/r/datascience/comments/1hsyiwl/dicts_vs_classes_which_do_you_tend_to_use/,0.76,False,False,False,False
++1ht2bbg,Moving to Germany,13,21,physicsguy21,2025-01-04 00:58:25,https://www.reddit.com/r/datascience/comments/1ht2bbg/moving_to_germany/,0.72,False,False,False,False
++1ht6ztm,I feel useless ,50,15,Tenet_Bull,2025-01-04 05:04:00,https://www.reddit.com/r/datascience/comments/1ht6ztm/i_feel_useless/,0.93,False,False,False,False
