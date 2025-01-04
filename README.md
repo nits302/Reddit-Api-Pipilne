@@ -38,7 +38,7 @@ As AWS offer a free tier, this shouldn't cost you anything unless you amend the 
 First clone the repository into your home directory and follow the steps.
 
   ```bash
-  git clone https://github.com/AnMol12499/Reddit-Analytics-Integration-Platform.git
+  git clone https://github.com/nits302/Reddit_ETL_Pipilne.git
   ```
 
 ### Getting Started
