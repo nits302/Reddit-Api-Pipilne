@@ -26,6 +26,8 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 <img src="images/Report_Reddit.png" width=70% height=70%>
 
+[DEMO](https://lookerstudio.google.com/reporting/99b501fd-ef53-4b35-8b67-511c3ff65d4a)
+
 
 ## Setup
 
@@ -60,3 +62,7 @@ To begin using the project, follow these steps:
 Project Structure: The project's structure includes directories for infrastructure (Terraform), configuration (AWS and Airflow), data extraction (Python scripts), and optional steps like dbt and BI tools integration.
 
 Customization: Feel free to customize the project by modifying configurations, adding new data sources, or integrating additional tools as needed.
+
+## 🚀 Video DEMO
+
+[Demo Project Reddit ETL Pipeline]((https://youtu.be/GuAIBefWA94))****
