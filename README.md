@@ -24,7 +24,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Output
 
-<img src="images/Report_Reddit.pdf" width=70% height=70%>
+<img src="images/Report_Reddit.png" width=70% height=70%>
 
 
 ## Setup
