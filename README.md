@@ -12,7 +12,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Architecture
 
-<img src="images/workflow.png" width=70% height=70%>
+<img src="images/architecture.png" width=70% height=70%>
 
 1. Extract data using [Reddit API](https://www.reddit.com/dev/api/)
 1. Load into [AWS S3](https://aws.amazon.com/s3/)
@@ -24,7 +24,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Output
 
-<img src="images/GDS-Dashboard.png" width=70% height=70%>
+<img src="images/Report_Reddit.png" width=70% height=70%>
 
 
 ## Setup
