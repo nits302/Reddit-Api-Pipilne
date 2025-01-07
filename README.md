@@ -12,7 +12,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 ## Architecture
 
-<img src="images/architecture.png" width=70% height=70%>
+<img src="images/architecture.png" width=100% height=100%>
 
 1. Extract data using [Reddit API](https://www.reddit.com/dev/api/)
 1. Load into [AWS S3](https://aws.amazon.com/s3/)
@@ -22,11 +22,12 @@ It also provided a good opportunity to develop skills and experience in a range 
 1. Orchestrate with [Airflow](https://airflow.apache.org) in [Docker](https://www.docker.com)
 1. Create AWS resources with [Terraform](https://www.terraform.io)
 
-## Output
-
-<img src="images/Report_Reddit.png" width=70% height=70%>
-
+## Report
 [DEMO](https://lookerstudio.google.com/reporting/99b501fd-ef53-4b35-8b67-511c3ff65d4a)
+
+<img src="images/Report_Reddit.png" width=100% height=100%>
+
+
 
 
 ## Setup
@@ -65,4 +66,4 @@ Customization: Feel free to customize the project by modifying configurations, a
 
 ## 🚀 Video DEMO
 
-[Demo Project Reddit ETL Pipeline]((https://youtu.be/GuAIBefWA94))****
+[Demo Project Reddit ETL Pipeline](https://youtu.be/GuAIBefWA94)****
